@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adryanfe0302.github.io/mern-graphql-client",
   "dependencies": {
     "@apollo/react-hooks": "0.1.0-beta.7",
     "@testing-library/jest-dom": "^5.11.4",
